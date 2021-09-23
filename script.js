@@ -21,7 +21,7 @@ num = "This is not a number";
 console.log(num);
 
 // 7
-let blank ="";
+let blank;
 
 // 8
 console.log(blank);
@@ -40,4 +40,4 @@ console.log(quarter, dime, nickel, penny);
 let letters = "qwertyuiop";
 
 // Bonus 4
-console.log("letters".length, [5]);
+console.log(letters[letters.length - 1]);
